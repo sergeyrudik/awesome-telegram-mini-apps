@@ -19,7 +19,7 @@
 - [Games](#games) (275)
 - [Finance](#finance) (107)
 - [Tools](#tools) (150)
-- [NFT](#nft) (99)
+- [NFT](#nft) (100)
 - [Wallets](#wallets) (39)
 - [Social](#social) (21)
 - [AI Agents](#ai-agents) (5)
@@ -571,6 +571,7 @@
 
 ## NFT
 
+- [TON Watch](https://t.me/tonwatch_radar_bot?startapp) — Explore TON NFTs by public address, search the loaded collection, view item details and transfer history, and keep an optional personal address list. No wallet connection required.
 - [Pixel Market](https://t.me/pixelmarket_support) — Trade pixels, collect NFTs, and discover unique digital treasures.
 - [TON Diamonds](https://ton.diamonds) ✓ ★ — Marketplace for digital artists and high-quality collections. The first NFT on TON.
 - [Telegram Usernames](https://fragment.com) ✓ — Buy and Sell Usernames
